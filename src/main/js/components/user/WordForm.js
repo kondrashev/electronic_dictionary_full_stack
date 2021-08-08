@@ -21,7 +21,7 @@ const WordForm = (props) => {
     });
     React.useEffect(() => {
         getAllCategories(`/get/all/categories?userName=${sessionStorage.userName}`);
-    }, []);
+    }, [values.showFormWord]);
     const nameChange = (event) => {
         if (event.target.value === '') {
             setValuesWordForm({
