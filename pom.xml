@@ -53,12 +53,12 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <!-- <groupId>com.h2database</groupId>
+            <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
-            <scope>runtime</scope> -->
-            <groupId>org.postgresql</groupId>
+            <scope>runtime</scope>
+            <!-- <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>9.4.1208</version>
+            <version>9.4.1208</version> -->
         </dependency>
     </dependencies>
 
