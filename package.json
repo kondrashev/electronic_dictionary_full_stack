@@ -1,0 +1,51 @@
+{
+  "name": "electronic_dictionary_full_stack",
+  "version": "1.0.0",
+  "description": "This project call 'Electronic dictionary'. The main idea of this project to help people which want to learn English to improve their vocabulary and pronunciation. For development this project I was using the following stack of technologies, namely: java, spring boot, spring security, spring data. Using opportunities of this project you can add, delete, edit categories and words. For separating words into categories I was using dependencies like 'one to many' and 'many to one'. This opportunity significantly simplified the procedure of deleting categories. You can also move words from one category into another. I think it's very convenient isn't?",
+  "main": "index.js",
+  "scripts": {
+    "d": "webpack --watch -d --output ./target/classes/static/built/bundle.js",
+    "p": "webpack --watch -d --output ./src/main/resources/static/built/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kondrashev/electronic_dictionary_back_end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kondrashev/electronic_dictionary_back_end/issues"
+  },
+  "homepage": "https://github.com/kondrashev/electronic_dictionary_back_end#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "babel-polyfill": "^6.26.0",
+    "css-loader": "^4.3.0",
+    "sass-loader": "^10.2.0",
+    "style-loader": "^3.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.12.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "material-ui-popup-state": "^1.9.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "react-spring": "^9.2.4",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  }
+}
