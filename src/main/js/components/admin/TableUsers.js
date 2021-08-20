@@ -36,7 +36,7 @@ function UsersTable(props) {
             setValues: setValues
         }
         getUsers(data);
-    }, [updateUsers]);
+    }, [updateUsers, values.listUsers]);
     function descendingComparator(a, b, orderBy) {
         if (b[orderBy] < a[orderBy]) {
             return -1;
