@@ -10,9 +10,12 @@ import Tooltip from '@material-ui/core/Tooltip';
 import HomeIcon from '@material-ui/icons/Home';
 import { ApplictationContext } from '../../App';
 import Button from '@material-ui/core/Button';
+import { connect } from 'react-redux';
+import { loadDataBaseFetchData } from '../../store/upload_database/action';
 
 const MenuAdmin = (props) => {
     const { values, setValues } = React.useContext(ApplictationContext);
+    const { getUsers, users } = props;
     const useStyles = makeStyles((theme) => ({
         root: {
             flexGrow: 1,
@@ -92,6 +95,10 @@ const MenuAdmin = (props) => {
         }
     }
     const classes = useStyles();
+    const upLoadDataBase = () => {
+        getUsers(data);
+        localStorage('pavel', JSON.stringify(users));
+    }
     return (
         <div
             className={classes.root}
@@ -107,8 +114,12 @@ const MenuAdmin = (props) => {
                     >
                         {sessionStorage.userName}
                     </Typography>
-                    <Button variant="contained" color="secondary">
-                        Secondary
+                    <Button
+                        variant="contained"
+                        color="primary"
+                        onClick={upLoadDataBase}
+                    >
+                        Upload database
                     </Button>
                     <div className={classes.search}>
                         <div className={classes.searchIcon}>
@@ -139,4 +150,14 @@ const MenuAdmin = (props) => {
         </div >
     );
 }
-export default MenuAdmin;
+const mapStateToProps = state => {
+    return {
+        users: state.loadDataBaseReducer
+    };
+}
+const mapDispatchToProps = dispatch => {
+    return {
+        getUsers: (data) => dispatch(loadDataBaseFetchData(data))
+    };
+}
+export default connect(mapStateToProps, mapDispatchToProps)(MenuAdmin);
