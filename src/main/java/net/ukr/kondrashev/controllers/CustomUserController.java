@@ -20,6 +20,7 @@ import org.springframework.security.core.userdetails.User;
 import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletResponse;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -124,5 +125,12 @@ public class CustomUserController {
             customUserRepository.deleteById(userId);
         }
         return loginListUser;
+    }
+
+    @GetMapping("/upload/database")
+    public JSONObject uploadDataBase() throws Exception {
+        JSONParser parser = new JSONParser();
+        Object obj = parser.parse(new FileReader("./src/main/json/local_storage.json"));
+        return (JSONObject) obj;
     }
 }

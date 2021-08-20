@@ -9,12 +9,16 @@ import IconButton from '@material-ui/core/IconButton';
 import Tooltip from '@material-ui/core/Tooltip';
 import HomeIcon from '@material-ui/icons/Home';
 import { ApplictationContext } from '../../App';
+import Button from '@material-ui/core/Button';
 
-export default function MenuAdmin(props) {
+const MenuAdmin = (props) => {
     const { values, setValues } = React.useContext(ApplictationContext);
     const useStyles = makeStyles((theme) => ({
         root: {
-            flexGrow: 1
+            flexGrow: 1,
+            width: '100%',
+            position: 'absolute',
+            top: '0px'
         },
         menuButton: {
             marginRight: theme.spacing(2),
@@ -25,6 +29,7 @@ export default function MenuAdmin(props) {
             [theme.breakpoints.up('sm')]: {
                 display: 'block',
             },
+            marginLeft: '100px'
         },
         search: {
             position: 'relative',
@@ -64,6 +69,14 @@ export default function MenuAdmin(props) {
                 },
             },
         },
+        appBar: {
+            background: '#5A8C51'
+        },
+        toolTip: {
+            float: 'right',
+            marginRight: '320px',
+            marginTop: '-55px'
+        }
     }));
     const logout = () => {
         window.location.href = '/logout';
@@ -82,28 +95,21 @@ export default function MenuAdmin(props) {
     return (
         <div
             className={classes.root}
-            style={{
-                width:'100%',
-                position: 'absolute',
-                top:'0px'
-            }}
         >
             <AppBar
                 position="static"
-                style={{
-                    background: '#5A8C51'
-                }}
+                className={classes.appBar}
             >
                 <Toolbar>
                     <Typography
                         className={classes.title}
                         variant="h6" noWrap
-                        style={{
-                            marginLeft: '100px'
-                        }}
                     >
                         {sessionStorage.userName}
                     </Typography>
+                    <Button variant="contained" color="secondary">
+                        Secondary
+                    </Button>
                     <div className={classes.search}>
                         <div className={classes.searchIcon}>
                             <SearchIcon />
@@ -122,11 +128,7 @@ export default function MenuAdmin(props) {
             </AppBar>
             <Tooltip
                 title='Logout'
-                style={{
-                    float: 'right',
-                    marginRight: '320px',
-                    marginTop: '-55px'
-                }}
+                className={classes.toolTip}
             >
                 <IconButton
                     onClick={logout}
@@ -137,3 +139,4 @@ export default function MenuAdmin(props) {
         </div >
     );
 }
+export default MenuAdmin;
