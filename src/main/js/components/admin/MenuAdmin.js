@@ -96,6 +96,9 @@ const MenuAdmin = (props) => {
     }
     const classes = useStyles();
     const upLoadDataBase = () => {
+        const data = {
+            url: '/upload/database'
+        }
         getUsers(data);
     }
     return (
