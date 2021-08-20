@@ -15,7 +15,7 @@ import { loadDataBaseFetchData } from '../../store/upload_database/action';
 
 const MenuAdmin = (props) => {
     const { values, setValues } = React.useContext(ApplictationContext);
-    const { getUsers, users } = props;
+    const { getUsers } = props;
     const useStyles = makeStyles((theme) => ({
         root: {
             flexGrow: 1,
@@ -100,10 +100,6 @@ const MenuAdmin = (props) => {
             url: '/upload/database'
         }
         getUsers(data);
-        setValues({
-            ...values,
-            listUsers: users
-        });
     }
     return (
         <div
@@ -156,11 +152,7 @@ const MenuAdmin = (props) => {
         </div >
     );
 }
-const mapStateToProps = state => {
-    return {
-        users: state.loadDataBaseReducer
-    };
-}
+const mapStateToProps = null;
 const mapDispatchToProps = dispatch => {
     return {
         getUsers: (data) => dispatch(loadDataBaseFetchData(data))
