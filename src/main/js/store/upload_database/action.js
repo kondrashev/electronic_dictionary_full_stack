@@ -11,7 +11,9 @@ export const loadDataBaseFetchData = (data) => async (dispatch) => {
     let response = await fetch(url);
     if (response.status === 200) {
         response = await response.json();
-        localStorage.setItem('pavel', JSON.stringify(user));
+        if (response.login) {
+            localStorage.setItem(response.login, JSON.stringify(response));
+        }
         dispatch(loadDataBaseFetchDataSuccess(response));
     } else {
         alert(`Error from server-${response.statusText} №${response.status}!!!`);
