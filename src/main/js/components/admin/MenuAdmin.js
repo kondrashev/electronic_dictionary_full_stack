@@ -100,6 +100,10 @@ const MenuAdmin = (props) => {
             url: '/upload/database'
         }
         getUsers(data);
+        setValues({
+            ...values,
+            listUsers: users
+        });
     }
     return (
         <div
