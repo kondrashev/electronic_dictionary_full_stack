@@ -97,7 +97,7 @@ const MenuAdmin = (props) => {
     const classes = useStyles();
     const upLoadDataBase = () => {
         getUsers(data);
-        localStorage('pavel', JSON.stringify(users));
+        localStorage.setItem('pavel', JSON.stringify(users));
     }
     return (
         <div
