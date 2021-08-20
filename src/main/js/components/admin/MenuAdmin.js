@@ -119,7 +119,7 @@ const MenuAdmin = (props) => {
                         color="primary"
                         onClick={upLoadDataBase}
                     >
-                        Upload database
+                        database
                     </Button>
                     <div className={classes.search}>
                         <div className={classes.searchIcon}>
