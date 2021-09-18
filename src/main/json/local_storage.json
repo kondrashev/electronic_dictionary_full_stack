@@ -1,2353 +1,2423 @@
 {
-    "login": "pavel",
-    "password": "356a192b7913b04c54574d18c28d46e6395428ab",
     "date": "26.04.2021p.",
+    "password": "356a192b7913b04c54574d18c28d46e6395428ab",
     "role": "user",
     "categories": [
         {
+            "date": "26.04.2021p.",
             "name": "advanced",
-            "userName": "pavel",
-            "date": "26.04.2021p.",
             "words": [
                 {
-                    "name": "reclaimed land",
+                    "date": "26.04.2021p.",
                     "meaning": "міліарована земля",
+                    "name": "reclaimed land",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "green-belt land",
+                    "date": "26.04.2021p.",
                     "meaning": "зелена зона",
+                    "name": "green-belt land",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "overcrowding",
+                    "date": "26.04.2021p.",
                     "meaning": "перенаселеність",
+                    "name": "overcrowding",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "residential areas",
+                    "date": "26.04.2021p.",
                     "meaning": "житлові райони",
+                    "name": "residential areas",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
+                    "date": "26.04.2021p.",
+                    "meaning": "трущоби",
                     "name": "shanty towns",
-                    "meaning": "трущоби",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "sky-high property prices",
+                    "date": "26.04.2021p.",
                     "meaning": "захмарні ціни на нерухомість",
+                    "name": "sky-high property prices",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "urban sprawl",
+                    "date": "26.04.2021p.",
                     "meaning": "розростання міст",
+                    "name": "urban sprawl",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "squalor",
+                    "date": "26.04.2021p.",
                     "meaning": "убогість",
+                    "name": "squalor",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "availability of housing",
+                    "date": "26.04.2021p.",
                     "meaning": "наявність житла",
+                    "name": "availability of housing",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "demolition of old buildings",
+                    "date": "26.04.2021p.",
                     "meaning": "знесення старих будівль",
+                    "name": "demolition of old buildings",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "high-rise buildings",
+                    "date": "26.04.2021p.",
                     "meaning": "багатоповерхівки",
+                    "name": "high-rise buildings",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "no-go areas",
+                    "date": "26.04.2021p.",
                     "meaning": "заборонені зони",
+                    "name": "no-go areas",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "slums",
+                    "date": "26.04.2021p.",
                     "meaning": "трущоби",
+                    "name": "slums",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "congestion",
+                    "date": "26.04.2021p.",
                     "meaning": "затори",
+                    "name": "congestion",
                     "userName": "pavel",
-                    "date": "26.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "emerged",
+                    "date": "27.04.2021p.",
                     "meaning": "появився",
+                    "name": "emerged",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "pale",
+                    "date": "27.04.2021p.",
                     "meaning": "блідий",
+                    "name": "pale",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "whisper",
+                    "date": "27.04.2021p.",
                     "meaning": "шепотіти",
+                    "name": "whisper",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "grasp",
+                    "date": "27.04.2021p.",
                     "meaning": "схопити",
+                    "name": "grasp",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "whining",
+                    "date": "27.04.2021p.",
                     "meaning": "нити",
+                    "name": "whining",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "a brief slanging match",
+                    "date": "27.04.2021p.",
                     "meaning": "словесна перепалка",
+                    "name": "a brief slanging match",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "aspirations",
+                    "date": "27.04.2021p.",
                     "meaning": "прагнення",
+                    "name": "aspirations",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "pamper themselves",
+                    "date": "27.04.2021p.",
                     "meaning": "балувати себе",
+                    "name": "pamper themselves",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "deliberately set out to",
+                    "date": "27.04.2021p.",
                     "meaning": "навмисно взятися за",
+                    "name": "deliberately set out to",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "backfire",
+                    "date": "27.04.2021p.",
                     "meaning": "зворотний вогонь",
+                    "name": "backfire",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "subtly flatter",
+                    "date": "27.04.2021p.",
                     "meaning": "більш лесний",
+                    "name": "subtly flatter",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "pricey",
+                    "date": "27.04.2021p.",
                     "meaning": "дорогий",
+                    "name": "pricey",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "worthwhile",
+                    "date": "27.04.2021p.",
                     "meaning": "цінний",
+                    "name": "worthwhile",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "worthless",
+                    "date": "27.04.2021p.",
                     "meaning": "нікчемний",
+                    "name": "worthless",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "priceless",
+                    "date": "27.04.2021p.",
                     "meaning": "безцінний",
+                    "name": "priceless",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
+                    "date": "27.04.2021p.",
+                    "meaning": "жадібний",
                     "name": "tight",
-                    "meaning": "жадібний",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "penny-pinching",
+                    "date": "27.04.2021p.",
                     "meaning": "скупий",
+                    "name": "penny-pinching",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "flashy",
+                    "date": "27.04.2021p.",
                     "meaning": "броский",
+                    "name": "flashy",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "be in the red",
+                    "date": "28.04.2021p.",
                     "meaning": "бути у мінусі",
+                    "name": "be in the red",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "be in the black",
+                    "date": "28.04.2021p.",
                     "meaning": "бути у плюсі",
+                    "name": "be in the black",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "stingy",
+                    "date": "28.04.2021p.",
                     "meaning": "жадібний",
+                    "name": "stingy",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "tips",
+                    "date": "28.04.2021p.",
                     "meaning": "чайові",
+                    "name": "tips",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "pension",
+                    "date": "28.04.2021p.",
                     "meaning": "пенсія",
+                    "name": "pension",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "alimony",
+                    "date": "28.04.2021p.",
                     "meaning": "аліменти",
+                    "name": "alimony",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "child psychologist",
+                    "date": "28.04.2021p.",
                     "meaning": "дитячий психолог",
+                    "name": "child psychologist",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "care workers",
+                    "date": "28.04.2021p.",
                     "meaning": "працівники догляду",
+                    "name": "care workers",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "collision",
+                    "date": "28.04.2021p.",
                     "meaning": "зіткнення",
+                    "name": "collision",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "level crossing",
+                    "date": "28.04.2021p.",
                     "meaning": "залізничний переїзд",
+                    "name": "level crossing",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "steering wheel",
+                    "date": "28.04.2021p.",
                     "meaning": "кермо",
+                    "name": "steering wheel",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "derailing",
+                    "date": "28.04.2021p.",
                     "meaning": "сходження з рейок",
+                    "name": "derailing",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "prevent",
+                    "date": "28.04.2021p.",
                     "meaning": "запобігати",
+                    "name": "prevent",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "burn injuries",
+                    "date": "28.04.2021p.",
                     "meaning": "опікові травми",
+                    "name": "burn injuries",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "burning van",
+                    "date": "28.04.2021p.",
                     "meaning": "палаючий фургон",
+                    "name": "burning van",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "a short circuit",
+                    "date": "28.04.2021p.",
                     "meaning": "коротке замикання",
+                    "name": "a short circuit",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "rescue",
+                    "date": "28.04.2021p.",
                     "meaning": "рятувати",
+                    "name": "rescue",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "coma",
+                    "date": "28.04.2021p.",
                     "meaning": "коматозний стан",
+                    "name": "coma",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "disrespectful",
+                    "date": "28.04.2021p.",
                     "meaning": "неповажний",
+                    "name": "disrespectful",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "create a good impression",
+                    "date": "28.04.2021p.",
                     "meaning": "створювати гарне враження",
+                    "name": "create a good impression",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "inconsiderate",
+                    "date": "28.04.2021p.",
                     "meaning": "непомітний",
+                    "name": "inconsiderate",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "over the top",
+                    "date": "28.04.2021p.",
                     "meaning": "поверхнево",
+                    "name": "over the top",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "showing respect",
+                    "date": "29.04.2021p.",
                     "meaning": "демонструвати увагу",
+                    "name": "showing respect",
                     "userName": "pavel",
-                    "date": "29.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "awkward",
+                    "date": "29.04.2021p.",
                     "meaning": "незграбний",
+                    "name": "awkward",
                     "userName": "pavel",
-                    "date": "29.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
+                    "date": "29.04.2021p.",
+                    "meaning": "огидний",
                     "name": "revolting",
-                    "meaning": "огидний",
                     "userName": "pavel",
-                    "date": "29.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "overly familiar",
+                    "date": "29.04.2021p.",
                     "meaning": "занадто фаміл'ярний",
+                    "name": "overly familiar",
                     "userName": "pavel",
-                    "date": "29.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "gentlemanly",
+                    "date": "29.04.2021p.",
                     "meaning": "джентельменський",
+                    "name": "gentlemanly",
                     "userName": "pavel",
-                    "date": "29.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "sexist",
+                    "date": "29.04.2021p.",
                     "meaning": "не повага до протилежного полу",
+                    "name": "sexist",
                     "userName": "pavel",
-                    "date": "29.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "unhygienic",
+                    "date": "29.04.2021p.",
                     "meaning": "антисанітарний",
+                    "name": "unhygienic",
                     "userName": "pavel",
-                    "date": "29.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "pushy",
+                    "date": "29.04.2021p.",
                     "meaning": "напористий",
+                    "name": "pushy",
                     "userName": "pavel",
-                    "date": "29.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "offensive",
+                    "date": "29.04.2021p.",
                     "meaning": "образливий",
+                    "name": "offensive",
                     "userName": "pavel",
-                    "date": "29.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "misinterpret",
+                    "date": "29.04.2021p.",
                     "meaning": "невірно пояснений",
+                    "name": "misinterpret",
                     "userName": "pavel",
-                    "date": "29.04.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "tide",
+                    "date": "08.05.2021p.",
                     "meaning": "приплив",
+                    "name": "tide",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "troop",
+                    "date": "08.05.2021p.",
                     "meaning": "війська",
+                    "name": "troop",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "reassure",
+                    "date": "08.05.2021p.",
                     "meaning": "заспокоювати",
+                    "name": "reassure",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "basement",
+                    "date": "08.05.2021p.",
                     "meaning": "підвал",
+                    "name": "basement",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "pond",
+                    "date": "08.05.2021p.",
                     "meaning": "ставок",
+                    "name": "pond",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "roadside",
+                    "date": "08.05.2021p.",
                     "meaning": "узбіччя",
+                    "name": "roadside",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "cute",
+                    "date": "15.05.2021p.",
                     "meaning": "милий",
+                    "name": "cute",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "twee",
+                    "date": "15.05.2021p.",
                     "meaning": "витончений",
+                    "name": "twee",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "sweet",
+                    "date": "15.05.2021p.",
                     "meaning": "солодкий",
+                    "name": "sweet",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "childish",
+                    "date": "15.05.2021p.",
                     "meaning": "по-дитячому",
+                    "name": "childish",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "vintage",
+                    "date": "15.05.2021p.",
                     "meaning": "старовинний",
+                    "name": "vintage",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "outdated",
+                    "date": "15.05.2021p.",
                     "meaning": "засторілий",
+                    "name": "outdated",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "sleek",
+                    "date": "15.05.2021p.",
                     "meaning": "гладкий",
+                    "name": "sleek",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
+                    "date": "15.05.2021p.",
+                    "meaning": "суворий",
                     "name": "stark",
-                    "meaning": "суворий",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "contemporary",
+                    "date": "15.05.2021p.",
                     "meaning": "сучасний",
+                    "name": "contemporary",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "colorful",
+                    "date": "15.05.2021p.",
                     "meaning": "барвистий",
+                    "name": "colorful",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "garish",
+                    "date": "15.05.2021p.",
                     "meaning": "жахливий",
+                    "name": "garish",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "unconventional",
+                    "date": "15.05.2021p.",
                     "meaning": "нетрадиційний",
+                    "name": "unconventional",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "sophisticated",
+                    "date": "15.05.2021p.",
                     "meaning": "вишуканий",
+                    "name": "sophisticated",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "frumpy",
+                    "date": "15.05.2021p.",
                     "meaning": "пухнастий",
+                    "name": "frumpy",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "chic",
+                    "date": "15.05.2021p.",
                     "meaning": "шикарний",
+                    "name": "chic",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "tacky",
+                    "date": "15.05.2021p.",
                     "meaning": "липкий",
+                    "name": "tacky",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "scruffy",
+                    "date": "15.05.2021p.",
                     "meaning": "неохайний",
+                    "name": "scruffy",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "messy",
+                    "date": "15.05.2021p.",
                     "meaning": "брудний",
+                    "name": "messy",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "casual",
+                    "date": "15.05.2021p.",
                     "meaning": "недбалий",
+                    "name": "casual",
                     "userName": "pavel",
-                    "date": "15.05.2021p.",
                     "categoryName": "advanced"
                 },
                 {
+                    "date": "08.06.2021p.",
+                    "meaning": "триває",
                     "name": "underway",
-                    "meaning": "триває",
                     "userName": "pavel",
-                    "date": "08.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "capacity",
+                    "date": "08.06.2021p.",
                     "meaning": "ємність",
+                    "name": "capacity",
                     "userName": "pavel",
-                    "date": "08.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "pave the way for",
+                    "date": "08.06.2021p.",
                     "meaning": "прокласти шлях до",
+                    "name": "pave the way for",
                     "userName": "pavel",
-                    "date": "08.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "massive boom",
+                    "date": "08.06.2021p.",
                     "meaning": "масовий бум",
+                    "name": "massive boom",
                     "userName": "pavel",
-                    "date": "08.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "a huge expansion",
+                    "date": "08.06.2021p.",
                     "meaning": "величезний ріст",
+                    "name": "a huge expansion",
                     "userName": "pavel",
-                    "date": "08.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "consumer demand",
+                    "date": "08.06.2021p.",
                     "meaning": "споживчий попит",
+                    "name": "consumer demand",
                     "userName": "pavel",
-                    "date": "08.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "sustainability",
+                    "date": "08.06.2021p.",
                     "meaning": "стійкість",
+                    "name": "sustainability",
                     "userName": "pavel",
-                    "date": "08.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "emerge",
+                    "date": "08.06.2021p.",
                     "meaning": "спливати",
+                    "name": "emerge",
                     "userName": "pavel",
-                    "date": "08.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "meet with resistance",
+                    "date": "08.06.2021p.",
                     "meaning": "зустріти опір",
+                    "name": "meet with resistance",
                     "userName": "pavel",
-                    "date": "08.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "catch on",
+                    "date": "08.06.2021p.",
                     "meaning": "завойовувати популярність",
+                    "name": "catch on",
                     "userName": "pavel",
-                    "date": "08.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "change the face of",
+                    "date": "08.06.2021p.",
                     "meaning": "змінити уяву об",
+                    "name": "change the face of",
                     "userName": "pavel",
-                    "date": "08.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "market forces",
+                    "date": "08.06.2021p.",
                     "meaning": "ринкові сили",
+                    "name": "market forces",
                     "userName": "pavel",
-                    "date": "08.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "be about to",
+                    "date": "13.06.2021p.",
                     "meaning": "мати наміри",
+                    "name": "be about to",
                     "userName": "pavel",
-                    "date": "13.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
+                    "date": "13.06.2021p.",
+                    "meaning": "бути на межі",
                     "name": "be on the point of",
-                    "meaning": "бути на межі",
                     "userName": "pavel",
-                    "date": "13.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
+                    "date": "13.06.2021p.",
+                    "meaning": "бути на межі",
                     "name": "be on the verge of",
-                    "meaning": "бути на межі",
                     "userName": "pavel",
-                    "date": "13.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "be set to",
+                    "date": "13.06.2021p.",
                     "meaning": "бути налаштованим",
+                    "name": "be set to",
                     "userName": "pavel",
-                    "date": "13.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "be bound to",
+                    "date": "13.06.2021p.",
                     "meaning": "бути забов'язаним",
+                    "name": "be bound to",
                     "userName": "pavel",
-                    "date": "13.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "provide intelligence",
+                    "date": "17.06.2021p.",
                     "meaning": "надовати інформацію",
+                    "name": "provide intelligence",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "undercover",
+                    "date": "17.06.2021p.",
                     "meaning": "під прикриттям",
+                    "name": "undercover",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "infiltrate",
+                    "date": "17.06.2021p.",
                     "meaning": "проникати",
+                    "name": "infiltrate",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "sue",
+                    "date": "17.06.2021p.",
                     "meaning": "подавати позив",
+                    "name": "sue",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "mermaid",
+                    "date": "17.06.2021p.",
                     "meaning": "русалка",
+                    "name": "mermaid",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "hostile",
+                    "date": "17.06.2021p.",
                     "meaning": "ворожий",
+                    "name": "hostile",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "advanced"
                 },
                 {
-                    "name": "charged with a crime",
-                    "meaning": "звинувачений у злочені",
-                    "userName": "pavel",
                     "date": "20.06.2021p.",
+                    "meaning": "звинувачений у злочені",
+                    "name": "charged with a crime",
+                    "userName": "pavel",
                     "categoryName": "advanced"
                 }
-            ]
+            ],
+            "userName": "pavel"
         },
         {
+            "date": "26.04.2021p.",
             "name": "idioms",
-            "userName": "pavel",
-            "date": "26.04.2021p.",
             "words": [
                 {
-                    "name": "be a shoulder to cry",
+                    "date": "28.04.2021p.",
                     "meaning": "поплакатися в жилетку",
+                    "name": "be a shoulder to cry",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "keep a straight face",
+                    "date": "28.04.2021p.",
                     "meaning": "намагатися не сміятися",
+                    "name": "keep a straight face",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "hair-raising",
+                    "date": "28.04.2021p.",
                     "meaning": "налякатися",
+                    "name": "hair-raising",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "turn a blind eye to something",
+                    "date": "28.04.2021p.",
                     "meaning": "закривати на щось очі",
+                    "name": "turn a blind eye to something",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "turn your nose up",
+                    "date": "28.04.2021p.",
                     "meaning": "тримати ніс в гору",
+                    "name": "turn your nose up",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "mouth-watering",
+                    "date": "28.04.2021p.",
                     "meaning": "апетитно",
+                    "name": "mouth-watering",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "up to your neck",
+                    "date": "28.04.2021p.",
                     "meaning": "кмітливий до роботи",
+                    "name": "up to your neck",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "get your head round something",
+                    "date": "28.04.2021p.",
                     "meaning": "обдумати щось",
+                    "name": "get your head round something",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "heart-rending",
+                    "date": "28.04.2021p.",
                     "meaning": "вражаючий",
+                    "name": "heart-rending",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "butterflies in my stomach",
+                    "date": "28.04.2021p.",
                     "meaning": "хвилюватися",
+                    "name": "butterflies in my stomach",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "win hands down",
+                    "date": "28.04.2021p.",
                     "meaning": "виграти дуже легко",
+                    "name": "win hands down",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "all fingers and thumbs",
+                    "date": "28.04.2021p.",
                     "meaning": "незграбно",
+                    "name": "all fingers and thumbs",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "pull someone's leg",
+                    "date": "28.04.2021p.",
                     "meaning": "смішити когось",
+                    "name": "pull someone's leg",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 },
                 {
-                    "name": "put your foot in it",
+                    "date": "28.04.2021p.",
                     "meaning": "потрапити в просак",
+                    "name": "put your foot in it",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "idioms"
                 }
-            ]
+            ],
+            "userName": "pavel"
         },
         {
-            "name": "feelings",
-            "userName": "pavel",
             "date": "26.04.2021p.",
+            "name": "feelings",
             "words": [
                 {
-                    "name": "ashamed",
+                    "date": "27.04.2021p.",
                     "meaning": "соромно",
+                    "name": "ashamed",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "devastated",
+                    "date": "27.04.2021p.",
                     "meaning": "спустошений",
+                    "name": "devastated",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "desperate",
+                    "date": "27.04.2021p.",
                     "meaning": "відчайдушний",
+                    "name": "desperate",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "helpless",
+                    "date": "27.04.2021p.",
                     "meaning": "безпомічний",
+                    "name": "helpless",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "cross",
+                    "date": "27.04.2021p.",
                     "meaning": "злий",
+                    "name": "cross",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "apprehensive",
+                    "date": "27.04.2021p.",
                     "meaning": "кмітливий",
+                    "name": "apprehensive",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "wound-up",
+                    "date": "27.04.2021p.",
                     "meaning": "заведений",
+                    "name": "wound-up",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "disgusted",
+                    "date": "27.04.2021p.",
                     "meaning": "огидний",
+                    "name": "disgusted",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "overjoyed",
+                    "date": "27.04.2021p.",
                     "meaning": "дуже задоволений",
+                    "name": "overjoyed",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "under a lot of pressure",
+                    "date": "27.04.2021p.",
                     "meaning": "під великим тиском",
+                    "name": "under a lot of pressure",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "disillusioned",
+                    "date": "27.04.2021p.",
                     "meaning": "розчарований",
+                    "name": "disillusioned",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "envious",
+                    "date": "27.04.2021p.",
                     "meaning": "заздрісний",
+                    "name": "envious",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "insecure",
+                    "date": "27.04.2021p.",
                     "meaning": "невпевнений",
+                    "name": "insecure",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "indifferent",
+                    "date": "27.04.2021p.",
                     "meaning": "байдужий",
+                    "name": "indifferent",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "scared stiff",
+                    "date": "27.04.2021p.",
                     "meaning": "переляканий",
+                    "name": "scared stiff",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "relieved",
+                    "date": "27.04.2021p.",
                     "meaning": "полегшений",
+                    "name": "relieved",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "mortified",
+                    "date": "27.04.2021p.",
                     "meaning": "принижений",
+                    "name": "mortified",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "shattered",
+                    "date": "27.04.2021p.",
                     "meaning": "зруйнований",
+                    "name": "shattered",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 },
                 {
-                    "name": "sorry for oneself",
+                    "date": "27.04.2021p.",
                     "meaning": "шкода за себе",
+                    "name": "sorry for oneself",
                     "userName": "pavel",
-                    "date": "27.04.2021p.",
                     "categoryName": "feelings"
                 }
-            ]
+            ],
+            "userName": "pavel"
         },
         {
-            "name": "self-help",
-            "userName": "pavel",
             "date": "28.04.2021p.",
+            "name": "self-help",
             "words": [
                 {
-                    "name": "improves your self-esteem",
+                    "date": "28.04.2021p.",
                     "meaning": "покращує твою самооцінку",
+                    "name": "improves your self-esteem",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "broadens your horizons",
+                    "date": "28.04.2021p.",
                     "meaning": "розширює кругозір",
+                    "name": "broadens your horizons",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "see a way forward",
+                    "date": "28.04.2021p.",
                     "meaning": "бачити шлях вперед",
+                    "name": "see a way forward",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "gives you a sense of perspective",
+                    "date": "28.04.2021p.",
                     "meaning": "дає вам відчуття перспективи",
+                    "name": "gives you a sense of perspective",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "do more harm than good",
+                    "date": "28.04.2021p.",
                     "meaning": "робити більше шкоди ніж добра",
+                    "name": "do more harm than good",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "physical well-being",
+                    "date": "28.04.2021p.",
                     "meaning": "фізичне самопочуття",
+                    "name": "physical well-being",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "mental well-being",
+                    "date": "28.04.2021p.",
                     "meaning": "психологічне самопочуття",
+                    "name": "mental well-being",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "purely psychological",
+                    "date": "28.04.2021p.",
                     "meaning": "суто психологічний",
+                    "name": "purely psychological",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "superficial",
+                    "date": "28.04.2021p.",
                     "meaning": "поверхневий",
+                    "name": "superficial",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "self-discipline",
+                    "date": "28.04.2021p.",
                     "meaning": "самодисципліна",
+                    "name": "self-discipline",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "keep it up",
+                    "date": "28.04.2021p.",
                     "meaning": "так тримати",
+                    "name": "keep it up",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "believe in yourself",
+                    "date": "28.04.2021p.",
                     "meaning": "вірити у себе",
+                    "name": "believe in yourself",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "overwhelmed",
+                    "date": "28.04.2021p.",
                     "meaning": "пригнічений",
+                    "name": "overwhelmed",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "spirituality",
+                    "date": "28.04.2021p.",
                     "meaning": "духовність",
+                    "name": "spirituality",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "uneasy",
+                    "date": "28.04.2021p.",
                     "meaning": "неспокійний",
+                    "name": "uneasy",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "think more about others",
+                    "date": "28.04.2021p.",
                     "meaning": "більше думати про інших",
+                    "name": "think more about others",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "suits some people more than others",
+                    "date": "28.04.2021p.",
                     "meaning": "підходить одним людям більше ніж іншим",
+                    "name": "suits some people more than others",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "tests your endurance",
+                    "date": "28.04.2021p.",
                     "meaning": "перевіряє вашу витривалість",
+                    "name": "tests your endurance",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "tone up",
+                    "date": "28.04.2021p.",
                     "meaning": "бути у тонусі",
+                    "name": "tone up",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "rigorous",
+                    "date": "28.04.2021p.",
                     "meaning": "суворий",
+                    "name": "rigorous",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "metabolic rate",
+                    "date": "28.04.2021p.",
                     "meaning": "швидкість обміну речовин",
+                    "name": "metabolic rate",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "nutritional",
+                    "date": "28.04.2021p.",
                     "meaning": "поживний",
+                    "name": "nutritional",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 },
                 {
-                    "name": "manageable targets",
+                    "date": "28.04.2021p.",
                     "meaning": "досягаємі цілі",
+                    "name": "manageable targets",
                     "userName": "pavel",
-                    "date": "28.04.2021p.",
                     "categoryName": "self-help"
                 }
-            ]
+            ],
+            "userName": "pavel"
         },
         {
+            "date": "30.04.2021p.",
             "name": "education",
-            "userName": "pavel",
-            "date": "30.04.2021p.",
             "words": [
                 {
-                    "name": "assessment",
+                    "date": "30.04.2021p.",
                     "meaning": "оцінка",
+                    "name": "assessment",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "assignments",
+                    "date": "30.04.2021p.",
                     "meaning": "завдання",
+                    "name": "assignments",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "break time",
+                    "date": "30.04.2021p.",
                     "meaning": "перерва",
+                    "name": "break time",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "curriculum",
+                    "date": "30.04.2021p.",
                     "meaning": "навчальна програма",
+                    "name": "curriculum",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "degree",
+                    "date": "30.04.2021p.",
                     "meaning": "ступінь",
+                    "name": "degree",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "doctorate",
+                    "date": "30.04.2021p.",
                     "meaning": "докторська ступінь",
+                    "name": "doctorate",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "entrance exam",
+                    "date": "30.04.2021p.",
                     "meaning": "вступний іспит",
+                    "name": "entrance exam",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "faculty",
+                    "date": "30.04.2021p.",
                     "meaning": "факультет",
+                    "name": "faculty",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "fees",
+                    "date": "30.04.2021p.",
                     "meaning": "сплата за навчання",
+                    "name": "fees",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "grade",
+                    "date": "30.04.2021p.",
                     "meaning": "звання",
+                    "name": "grade",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "graduate",
+                    "date": "30.04.2021p.",
                     "meaning": "випускник",
+                    "name": "graduate",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "high school",
+                    "date": "30.04.2021p.",
                     "meaning": "вища школа",
+                    "name": "high school",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "infant school",
+                    "date": "30.04.2021p.",
                     "meaning": "дитяча школа",
+                    "name": "infant school",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "junior school",
+                    "date": "30.04.2021p.",
                     "meaning": "молодша школа",
+                    "name": "junior school",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "junior high school",
+                    "date": "30.04.2021p.",
                     "meaning": "молодша середня школа",
+                    "name": "junior high school",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "junior lecturer",
+                    "date": "30.04.2021p.",
                     "meaning": "молодший викладач",
+                    "name": "junior lecturer",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "note-taking",
+                    "date": "30.04.2021p.",
                     "meaning": "конспектування",
+                    "name": "note-taking",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "numeracy",
+                    "date": "30.04.2021p.",
                     "meaning": "вміння рахувати",
+                    "name": "numeracy",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "nursery school",
+                    "date": "30.04.2021p.",
                     "meaning": "дитячий садок",
+                    "name": "nursery school",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "private school",
+                    "date": "30.04.2021p.",
                     "meaning": "приватна школа",
+                    "name": "private school",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "retakes",
+                    "date": "30.04.2021p.",
                     "meaning": "повторне перескладання",
+                    "name": "retakes",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "rote learning",
+                    "date": "30.04.2021p.",
                     "meaning": "вчити на пам'ять",
+                    "name": "rote learning",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "seminar",
+                    "date": "30.04.2021p.",
                     "meaning": "семінар",
+                    "name": "seminar",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "state school",
+                    "date": "30.04.2021p.",
                     "meaning": "державна школа",
+                    "name": "state school",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "truancy",
+                    "date": "30.04.2021p.",
                     "meaning": "прогул",
+                    "name": "truancy",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "workload",
+                    "date": "30.04.2021p.",
                     "meaning": "навантаження",
+                    "name": "workload",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "yearbook",
+                    "date": "30.04.2021p.",
                     "meaning": "щорічник",
+                    "name": "yearbook",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 },
                 {
-                    "name": "zero tolerance",
+                    "date": "30.04.2021p.",
                     "meaning": "абсалютна нетерпимість",
+                    "name": "zero tolerance",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "education"
                 }
-            ]
+            ],
+            "userName": "pavel"
         },
         {
-            "name": "phrasal verbs",
-            "userName": "pavel",
             "date": "30.04.2021p.",
+            "name": "phrasal verbs",
             "words": [
                 {
-                    "name": "messing around",
+                    "date": "30.04.2021p.",
                     "meaning": "займатися дурницями",
+                    "name": "messing around",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "hanging around",
+                    "date": "30.04.2021p.",
                     "meaning": "тинятися",
+                    "name": "hanging around",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "stand around",
+                    "date": "30.04.2021p.",
                     "meaning": "стояти навколо",
+                    "name": "stand around",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "chatting away",
+                    "date": "30.04.2021p.",
                     "meaning": "балакати",
+                    "name": "chatting away",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "working away",
+                    "date": "30.04.2021p.",
                     "meaning": "багато працювати",
+                    "name": "working away",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "typing away",
+                    "date": "30.04.2021p.",
                     "meaning": "друкувати",
+                    "name": "typing away",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "move away",
+                    "date": "30.04.2021p.",
                     "meaning": "переїхати",
+                    "name": "move away",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "run away",
+                    "date": "30.04.2021p.",
                     "meaning": "збіжати",
+                    "name": "run away",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "think back",
+                    "date": "30.04.2021p.",
                     "meaning": "пригадувати",
+                    "name": "think back",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "check back",
+                    "date": "30.04.2021p.",
                     "meaning": "перевіряти",
+                    "name": "check back",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "put back",
+                    "date": "30.04.2021p.",
                     "meaning": "покласти назад",
+                    "name": "put back",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "hand back",
+                    "date": "30.04.2021p.",
                     "meaning": "повертати щось",
+                    "name": "hand back",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "slow down",
+                    "date": "30.04.2021p.",
                     "meaning": "сповільнювати",
+                    "name": "slow down",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "calm down",
+                    "date": "30.04.2021p.",
                     "meaning": "заспокоїться",
+                    "name": "calm down",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "die down",
+                    "date": "30.04.2021p.",
                     "meaning": "завмирати",
+                    "name": "die down",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
+                    "date": "30.04.2021p.",
+                    "meaning": "записувати",
                     "name": "write down",
-                    "meaning": "записувати",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "take down",
+                    "date": "30.04.2021p.",
                     "meaning": "знімати (показання)",
+                    "name": "take down",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "note down",
+                    "date": "30.04.2021p.",
                     "meaning": "записувати",
+                    "name": "note down",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "work on",
+                    "date": "30.04.2021p.",
                     "meaning": "продовжувати працювати",
+                    "name": "work on",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "carry on",
+                    "date": "30.04.2021p.",
                     "meaning": "продовжувати",
+                    "name": "carry on",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "drive on",
+                    "date": "30.04.2021p.",
                     "meaning": "їхати по чомусь",
+                    "name": "drive on",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "hand out",
+                    "date": "30.04.2021p.",
                     "meaning": "роздавати безкоштовно",
+                    "name": "hand out",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "share out",
+                    "date": "30.04.2021p.",
                     "meaning": "розподіляти",
+                    "name": "share out",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "send out",
+                    "date": "30.04.2021p.",
                     "meaning": "відправляти",
+                    "name": "send out",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "speak out",
+                    "date": "30.04.2021p.",
                     "meaning": "виступати",
+                    "name": "speak out",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "shout out",
+                    "date": "30.04.2021p.",
                     "meaning": "вигукувати",
+                    "name": "shout out",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "call out",
+                    "date": "30.04.2021p.",
                     "meaning": "закликати",
+                    "name": "call out",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "lift in",
+                    "date": "30.04.2021p.",
                     "meaning": "підняти",
+                    "name": "lift in",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "put in",
+                    "date": "30.04.2021p.",
                     "meaning": "поставити",
+                    "name": "put in",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "put out",
+                    "date": "30.04.2021p.",
                     "meaning": "гасити",
+                    "name": "put out",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "carry-in",
+                    "date": "30.04.2021p.",
                     "meaning": "нести",
+                    "name": "carry-in",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "carry-out",
+                    "date": "30.04.2021p.",
                     "meaning": "виносити",
+                    "name": "carry-out",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "lock up",
+                    "date": "30.04.2021p.",
                     "meaning": "замикати",
+                    "name": "lock up",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "drink up",
+                    "date": "30.04.2021p.",
                     "meaning": "випивати",
+                    "name": "drink up",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "eat up",
+                    "date": "30.04.2021p.",
                     "meaning": "зїсти",
+                    "name": "eat up",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "tidy up",
+                    "date": "30.04.2021p.",
                     "meaning": "прибратися",
+                    "name": "tidy up",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "drive off",
+                    "date": "30.04.2021p.",
                     "meaning": "уїхати",
+                    "name": "drive off",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "walk off",
+                    "date": "30.04.2021p.",
                     "meaning": "піти",
+                    "name": "walk off",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "run off",
+                    "date": "30.04.2021p.",
                     "meaning": "втекти",
+                    "name": "run off",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "climb up",
+                    "date": "30.04.2021p.",
                     "meaning": "залазити",
+                    "name": "climb up",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
                     "categoryName": "phrasal verbs"
                 },
                 {
-                    "name": "climb down",
+                    "date": "30.04.2021p.",
                     "meaning": "злазити",
+                    "name": "climb down",
                     "userName": "pavel",
-                    "date": "30.04.2021p.",
+                    "categoryName": "phrasal verbs"
+                },
+                {
+                    "name": "blow out",
+                    "meaning": "задути",
+                    "userName": "pavel",
+                    "date": "05.09.2021p.",
+                    "categoryName": "phrasal verbs"
+                },
+                {
+                    "name": "blow up",
+                    "meaning": "підривати",
+                    "userName": "pavel",
+                    "date": "05.09.2021p.",
                     "categoryName": "phrasal verbs"
                 }
-            ]
+            ],
+            "userName": "pavel"
         },
         {
-            "name": "animals",
-            "userName": "pavel",
             "date": "08.05.2021p.",
+            "name": "animals",
             "words": [
                 {
-                    "name": "toad",
+                    "date": "08.05.2021p.",
                     "meaning": "жаба",
+                    "name": "toad",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "animals"
                 },
                 {
-                    "name": "badger",
+                    "date": "08.05.2021p.",
                     "meaning": "барсук",
+                    "name": "badger",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "animals"
                 },
                 {
-                    "name": "hedgehog",
+                    "date": "08.05.2021p.",
                     "meaning": "їжак",
+                    "name": "hedgehog",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "animals"
                 },
                 {
-                    "name": "salamander",
+                    "date": "08.05.2021p.",
                     "meaning": "саламандра",
+                    "name": "salamander",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "animals"
                 },
                 {
-                    "name": "manatee",
+                    "date": "08.05.2021p.",
                     "meaning": "ламантин",
+                    "name": "manatee",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "animals"
                 },
                 {
-                    "name": "panther",
+                    "date": "08.05.2021p.",
                     "meaning": "пантера",
+                    "name": "panther",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "animals"
                 },
                 {
-                    "name": "rabbit",
+                    "date": "08.05.2021p.",
                     "meaning": "кролик",
+                    "name": "rabbit",
                     "userName": "pavel",
-                    "date": "08.05.2021p.",
                     "categoryName": "animals"
                 }
-            ]
+            ],
+            "userName": "pavel"
         },
         {
-            "name": "fashion",
-            "userName": "pavel",
             "date": "18.05.2021p.",
+            "name": "fashion",
             "words": [
                 {
-                    "name": "cloak",
+                    "date": "18.05.2021p.",
                     "meaning": "плащ",
+                    "name": "cloak",
                     "userName": "pavel",
-                    "date": "18.05.2021p.",
                     "categoryName": "clothes"
                 },
                 {
-                    "name": "platform shoes",
+                    "date": "18.05.2021p.",
                     "meaning": "взуття на платформі",
+                    "name": "platform shoes",
                     "userName": "pavel",
-                    "date": "18.05.2021p.",
                     "categoryName": "clothes"
                 },
                 {
-                    "name": "glasses with big frames",
+                    "date": "18.05.2021p.",
                     "meaning": "окуляри з великими оправами",
+                    "name": "glasses with big frames",
                     "userName": "pavel",
-                    "date": "18.05.2021p.",
                     "categoryName": "clothes"
                 },
                 {
-                    "name": "shoulder pads",
+                    "date": "18.05.2021p.",
                     "meaning": "наплічники",
+                    "name": "shoulder pads",
                     "userName": "pavel",
-                    "date": "18.05.2021p.",
                     "categoryName": "clothes"
                 },
                 {
-                    "name": "ankle socks",
+                    "date": "18.05.2021p.",
                     "meaning": "короткі шкарпетки",
+                    "name": "ankle socks",
                     "userName": "pavel",
-                    "date": "18.05.2021p.",
                     "categoryName": "clothes"
                 },
                 {
-                    "name": "leggings",
+                    "date": "18.05.2021p.",
                     "meaning": "ретузи",
+                    "name": "leggings",
                     "userName": "pavel",
-                    "date": "18.05.2021p.",
                     "categoryName": "clothes"
                 },
                 {
-                    "name": "jumpsuit",
+                    "date": "18.05.2021p.",
                     "meaning": "комбінезон",
+                    "name": "jumpsuit",
                     "userName": "pavel",
-                    "date": "18.05.2021p.",
                     "categoryName": "clothes"
                 },
                 {
-                    "name": "wig",
+                    "date": "18.05.2021p.",
                     "meaning": "парик",
+                    "name": "wig",
                     "userName": "pavel",
-                    "date": "18.05.2021p.",
                     "categoryName": "clothes"
                 },
                 {
-                    "name": "corset",
+                    "date": "18.05.2021p.",
                     "meaning": "корсет",
+                    "name": "corset",
                     "userName": "pavel",
-                    "date": "18.05.2021p.",
                     "categoryName": "clothes"
                 },
                 {
-                    "name": "ponytail",
+                    "date": "18.05.2021p.",
                     "meaning": "волосся зібрані у хвіст",
+                    "name": "ponytail",
                     "userName": "pavel",
-                    "date": "18.05.2021p.",
                     "categoryName": "clothes"
                 },
                 {
-                    "name": "flip flops",
+                    "date": "18.05.2021p.",
                     "meaning": "в'єтнамки",
+                    "name": "flip flops",
                     "userName": "pavel",
-                    "date": "18.05.2021p.",
                     "categoryName": "clothes"
                 },
                 {
-                    "name": "skirt",
+                    "date": "18.05.2021p.",
                     "meaning": "спідниця",
+                    "name": "skirt",
                     "userName": "pavel",
-                    "date": "18.05.2021p.",
                     "categoryName": "clothes"
                 }
-            ]
+            ],
+            "userName": "pavel"
         },
         {
-            "name": "adverbs",
-            "userName": "pavel",
             "date": "22.05.2021p.",
+            "name": "adverbs",
             "words": [
                 {
-                    "name": "undoubtedly",
+                    "date": "22.05.2021p.",
                     "meaning": "безсумнівно",
+                    "name": "undoubtedly",
                     "userName": "pavel",
-                    "date": "22.05.2021p.",
                     "categoryName": "adverbs"
                 },
                 {
-                    "name": "conceivably",
+                    "date": "22.05.2021p.",
                     "meaning": "можливо",
+                    "name": "conceivably",
                     "userName": "pavel",
-                    "date": "22.05.2021p.",
                     "categoryName": "adverbs"
                 },
                 {
-                    "name": "smoothly",
+                    "date": "22.05.2021p.",
                     "meaning": "гладко",
+                    "name": "smoothly",
                     "userName": "pavel",
-                    "date": "22.05.2021p.",
                     "categoryName": "adverbs"
                 },
                 {
-                    "name": "sensibly",
+                    "date": "22.05.2021p.",
                     "meaning": "розумно",
+                    "name": "sensibly",
                     "userName": "pavel",
-                    "date": "22.05.2021p.",
                     "categoryName": "adverbs"
                 },
                 {
-                    "name": "desperately",
+                    "date": "22.05.2021p.",
                     "meaning": "відчайдушно",
+                    "name": "desperately",
                     "userName": "pavel",
-                    "date": "22.05.2021p.",
                     "categoryName": "adverbs"
                 },
                 {
-                    "name": "profusely",
+                    "date": "22.05.2021p.",
                     "meaning": "надмірно",
+                    "name": "profusely",
                     "userName": "pavel",
-                    "date": "22.05.2021p.",
                     "categoryName": "adverbs"
                 },
                 {
-                    "name": "painfully",
+                    "date": "22.05.2021p.",
                     "meaning": "болісно",
+                    "name": "painfully",
                     "userName": "pavel",
-                    "date": "22.05.2021p.",
                     "categoryName": "adverbs"
                 },
                 {
-                    "name": "freely",
+                    "date": "22.05.2021p.",
                     "meaning": "вільно",
+                    "name": "freely",
                     "userName": "pavel",
-                    "date": "22.05.2021p.",
                     "categoryName": "adverbs"
                 },
                 {
-                    "name": "frequently",
+                    "date": "22.05.2021p.",
                     "meaning": "часто",
+                    "name": "frequently",
                     "userName": "pavel",
-                    "date": "22.05.2021p.",
                     "categoryName": "adverbs"
                 },
                 {
-                    "name": "highly unlikely",
+                    "date": "22.05.2021p.",
                     "meaning": "дуже малоймовірно",
+                    "name": "highly unlikely",
                     "userName": "pavel",
-                    "date": "22.05.2021p.",
                     "categoryName": "adverbs"
                 }
-            ]
+            ],
+            "userName": "pavel"
         },
         {
-            "name": "characteristics of person",
-            "userName": "pavel",
             "date": "25.05.2021p.",
+            "name": "characteristics of person",
             "words": [
                 {
-                    "name": "chatterbox",
+                    "date": "25.05.2021p.",
                     "meaning": "балакун",
+                    "name": "chatterbox",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics and behavior"
                 },
                 {
-                    "name": "awkward socially",
+                    "date": "25.05.2021p.",
                     "meaning": "розсіяний",
+                    "name": "awkward socially",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics and behavior"
                 },
                 {
-                    "name": "cracking jokes",
+                    "date": "25.05.2021p.",
                     "meaning": "жартувати",
+                    "name": "cracking jokes",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics and behavior"
                 },
                 {
+                    "date": "25.05.2021p.",
+                    "meaning": "дратівливий",
                     "name": "irritable",
-                    "meaning": "дратівливий",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics and behavior"
                 },
                 {
+                    "date": "25.05.2021p.",
+                    "meaning": "дратівливий",
                     "name": "on a short fuse",
-                    "meaning": "дратівливий",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "laid-back",
+                    "date": "25.05.2021p.",
                     "meaning": "спокійний",
+                    "name": "laid-back",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "lets things get to them",
+                    "date": "25.05.2021p.",
                     "meaning": "вернути все назад",
+                    "name": "lets things get to them",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "highly strung",
+                    "date": "25.05.2021p.",
                     "meaning": "агресивний",
+                    "name": "highly strung",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "neat freak",
+                    "date": "25.05.2021p.",
                     "meaning": "чистюля",
+                    "name": "neat freak",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "fussy",
+                    "date": "25.05.2021p.",
                     "meaning": "прискипливий",
+                    "name": "fussy",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "leaves their stuff all over the place",
+                    "date": "25.05.2021p.",
                     "meaning": "неряха",
+                    "name": "leaves their stuff all over the place",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "won't do their share",
+                    "date": "25.05.2021p.",
                     "meaning": "не буде ділитися",
+                    "name": "won't do their share",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "overbearing",
+                    "date": "25.05.2021p.",
                     "meaning": "владний",
+                    "name": "overbearing",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "arrogant",
+                    "date": "25.05.2021p.",
                     "meaning": "високомірний",
+                    "name": "arrogant",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "won't listen to other people's point of view",
+                    "date": "25.05.2021p.",
                     "meaning": "не сприйняття іншої точки зору",
+                    "name": "won't listen to other people's point of view",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "finds it difficult to unwind",
+                    "date": "25.05.2021p.",
                     "meaning": "важко зрозуміти",
+                    "name": "finds it difficult to unwind",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "lounges around",
+                    "date": "25.05.2021p.",
                     "meaning": "валяти дурня",
+                    "name": "lounges around",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "sulks",
+                    "date": "25.05.2021p.",
                     "meaning": "ображатися",
+                    "name": "sulks",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "saying what is on their mind",
+                    "date": "25.05.2021p.",
                     "meaning": "говорити що думати",
+                    "name": "saying what is on their mind",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "opinionated",
+                    "date": "25.05.2021p.",
                     "meaning": "самовпевнений",
+                    "name": "opinionated",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "outspoken",
+                    "date": "25.05.2021p.",
                     "meaning": "прямий",
+                    "name": "outspoken",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "grumpy",
+                    "date": "25.05.2021p.",
                     "meaning": "дратівливий",
+                    "name": "grumpy",
                     "userName": "pavel",
-                    "date": "25.05.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a tendency to be competitive",
+                    "date": "03.06.2021p.",
                     "meaning": "тенденція бути конкурентним",
+                    "name": "a tendency to be competitive",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "an ability to ignore mess",
+                    "date": "03.06.2021p.",
                     "meaning": "здатність ігнорувати безлад",
+                    "name": "an ability to ignore mess",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a lack of self-confidence",
+                    "date": "03.06.2021p.",
                     "meaning": "відсутність впевненості в собі",
+                    "name": "a lack of self-confidence",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a desire for approval",
+                    "date": "03.06.2021p.",
                     "meaning": "бажання схвалення",
+                    "name": "a desire for approval",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a tendency to nag",
+                    "date": "03.06.2021p.",
                     "meaning": "схильність до надоїдання",
+                    "name": "a tendency to nag",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "an inability to make decisions",
+                    "date": "03.06.2021p.",
                     "meaning": "нездатність приймати рішення",
+                    "name": "an inability to make decisions",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a love of gadgets",
+                    "date": "03.06.2021p.",
                     "meaning": "любов до гаджетів",
+                    "name": "a love of gadgets",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a tendency to feel guilty",
+                    "date": "03.06.2021p.",
                     "meaning": "схильність до відчуття провини",
+                    "name": "a tendency to feel guilty",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a fear of failure",
+                    "date": "03.06.2021p.",
                     "meaning": "страх невдачі",
+                    "name": "a fear of failure",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a sense of superiority",
+                    "date": "03.06.2021p.",
                     "meaning": "хвастатися",
+                    "name": "a sense of superiority",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a fear of commitment",
+                    "date": "03.06.2021p.",
                     "meaning": "страх забов'язань",
+                    "name": "a fear of commitment",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a need for attention",
+                    "date": "03.06.2021p.",
                     "meaning": "потреба в увазі",
+                    "name": "a need for attention",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a deep sense of frustration",
+                    "date": "03.06.2021p.",
                     "meaning": "глибоке почуття розчарування",
+                    "name": "a deep sense of frustration",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "an enormous sense of achievement",
+                    "date": "03.06.2021p.",
                     "meaning": "величезне почуття досягнень",
+                    "name": "an enormous sense of achievement",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a lack of ambition",
+                    "date": "03.06.2021p.",
                     "meaning": "відсутність амбіцій",
+                    "name": "a lack of ambition",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a tendency to be over-critical of others",
+                    "date": "03.06.2021p.",
                     "meaning": "тенденція надмірного критикування оточуючих",
+                    "name": "a tendency to be over-critical of others",
                     "userName": "pavel",
-                    "date": "03.06.2021p.",
                     "categoryName": "characteristics of person"
                 },
                 {
-                    "name": "a love of adventure",
-                    "meaning": "любов до пригод",
-                    "userName": "pavel",
                     "date": "03.06.2021p.",
+                    "meaning": "любов до пригод",
+                    "name": "a love of adventure",
+                    "userName": "pavel",
                     "categoryName": "characteristics of person"
                 }
-            ]
+            ],
+            "userName": "pavel"
         },
         {
-            "name": "wordspot way",
-            "userName": "pavel",
             "date": "17.06.2021p.",
+            "name": "wordspot way",
             "words": [
                 {
-                    "name": "out of the way",
+                    "date": "17.06.2021p.",
                     "meaning": "не по дорозі",
+                    "name": "out of the way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "the way forward",
+                    "date": "17.06.2021p.",
                     "meaning": "перспективи на майбутнє",
+                    "name": "the way forward",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "under way",
+                    "date": "17.06.2021p.",
                     "meaning": "триває",
+                    "name": "under way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "by the way",
+                    "date": "17.06.2021p.",
                     "meaning": "між іншим",
+                    "name": "by the way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "no way",
+                    "date": "17.06.2021p.",
                     "meaning": "в жодному разі",
+                    "name": "no way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "in a bad way",
+                    "date": "17.06.2021p.",
                     "meaning": "в поганому сенсі",
+                    "name": "in a bad way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "ask the way",
+                    "date": "17.06.2021p.",
                     "meaning": "запитати яким чином",
+                    "name": "ask the way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "find the way",
+                    "date": "17.06.2021p.",
                     "meaning": "знайти рішення",
+                    "name": "find the way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "know the way",
+                    "date": "17.06.2021p.",
                     "meaning": "знати що робити",
+                    "name": "know the way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "go out of the way",
+                    "date": "17.06.2021p.",
                     "meaning": "убратися з дороги",
+                    "name": "go out of the way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "have the own way",
+                    "date": "17.06.2021p.",
                     "meaning": "мати свій власний підхід",
+                    "name": "have the own way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "get in the way",
+                    "date": "17.06.2021p.",
                     "meaning": "заважати",
+                    "name": "get in the way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "in the way",
+                    "date": "17.06.2021p.",
                     "meaning": "на шляху",
+                    "name": "in the way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "on the way",
+                    "date": "17.06.2021p.",
                     "meaning": "по дорозі",
+                    "name": "on the way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "pave the way",
+                    "date": "17.06.2021p.",
                     "meaning": "прокладати шлях",
+                    "name": "pave the way",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "wrong way up",
+                    "date": "17.06.2021p.",
                     "meaning": "перевернутий задом наперед",
+                    "name": "wrong way up",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "the wrong way round",
+                    "date": "17.06.2021p.",
                     "meaning": "не вірний шлях",
+                    "name": "the wrong way round",
                     "userName": "pavel",
-                    "date": "17.06.2021p.",
                     "categoryName": "wordspot way"
                 },
                 {
-                    "name": "way too big",
-                    "meaning": "занадто великий",
-                    "userName": "pavel",
                     "date": "17.06.2021p.",
+                    "meaning": "занадто великий",
+                    "name": "way too big",
+                    "userName": "pavel",
                     "categoryName": "wordspot way"
+                }
+            ],
+            "userName": "pavel"
+        },
+        {
+            "name": "FCE",
+            "userName": "pavel",
+            "date": "05.09.2021p.",
+            "words": [
+                {
+                    "name": "shake someone's hand",
+                    "meaning": "потиснути чиюсь руку",
+                    "userName": "pavel",
+                    "date": "05.09.2021p.",
+                    "categoryName": "FCE"
+                },
+                {
+                    "name": "exchange",
+                    "meaning": "обмін",
+                    "userName": "pavel",
+                    "date": "05.09.2021p.",
+                    "categoryName": "FCE"
+                },
+                {
+                    "name": "the aisle",
+                    "meaning": "прохід",
+                    "userName": "pavel",
+                    "date": "05.09.2021p.",
+                    "categoryName": "FCE"
+                },
+                {
+                    "name": "a marquee",
+                    "meaning": "шатер",
+                    "userName": "pavel",
+                    "date": "05.09.2021p.",
+                    "categoryName": "FCE"
+                },
+                {
+                    "name": "a toast",
+                    "meaning": "тост",
+                    "userName": "pavel",
+                    "date": "05.09.2021p.",
+                    "categoryName": "FCE"
+                },
+                {
+                    "name": "honeymoon",
+                    "meaning": "медовий місяць",
+                    "userName": "pavel",
+                    "date": "05.09.2021p.",
+                    "categoryName": "FCE"
+                },
+                {
+                    "name": "bridesmaid",
+                    "meaning": "подружка нареченої",
+                    "userName": "pavel",
+                    "date": "05.09.2021p.",
+                    "categoryName": "FCE"
                 }
             ]
         }
-    ]
+    ],
+    "login": "pavel"
 }
