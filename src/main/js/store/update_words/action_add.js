@@ -34,6 +34,11 @@ export const addWordFetchData = (data) => {
 					showListWords: true,
 					currentNameCategory: valuesWordForm.valueSelect,
 				});
+				setValuesWordForm({
+					...valuesWordForm,
+					valueName: '',
+					valueMeaning: '',
+				});
 			} else {
 				setValues({
 					...values,
