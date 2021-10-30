@@ -21,6 +21,11 @@ export const addWordFetchData = (data) => {
 			response = await response.json();
 			if (response.name) {
 				dispatch(addWordFetchDataSuccess(response));
+				setValuesWordForm({
+					...valuesWordForm,
+					valueName: '',
+					valueMeaning: '',
+				});
 				let user = JSON.parse(localStorage.getItem(sessionStorage.userName));
 				Object.entries(user.categories).map(([, value]) => {
 					if (value.name === valuesWordForm.valueSelect) {
@@ -33,11 +38,6 @@ export const addWordFetchData = (data) => {
 					showListCategories: false,
 					showListWords: true,
 					currentNameCategory: valuesWordForm.valueSelect,
-				});
-				setValuesWordForm({
-					...valuesWordForm,
-					valueName: '',
-					valueMeaning: '',
 				});
 			} else {
 				setValues({
