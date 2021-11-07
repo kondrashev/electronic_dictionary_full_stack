@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import { createStore, applyMiddleware } from 'redux';
 import { Provider } from 'react-redux';
 import thunk from 'redux-thunk';
-import rootReducer from './store/redusers';
+import rootReducer from './store/reducers';
 import { BrowserRouter as Switch, Route } from 'react-router-dom';
 import AuthorizationForm from './components/authorization/AuthorizationForm';
 import RegistrationForm from './components/authorization/RegistrationForm';
